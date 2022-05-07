@@ -1,0 +1,10 @@
+F:\dev\NETworking\NETworking\NETworking\obj\Debug\net48\NETworking.csproj.AssemblyReference.cache
+F:\dev\NETworking\NETworking\NETworking\obj\Debug\net48\NETworking.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\NETworking\NETworking\NETworking\obj\Debug\net48\NETworking.AssemblyInfoInputs.cache
+F:\dev\NETworking\NETworking\NETworking\obj\Debug\net48\NETworking.AssemblyInfo.cs
+F:\dev\NETworking\NETworking\NETworking\obj\Debug\net48\NETworking.csproj.CoreCompileInputs.cache
+F:\dev\NETworking\NETworking\NETworking\bin\Debug\net48\NETworking.exe.config
+F:\dev\NETworking\NETworking\NETworking\bin\Debug\net48\NETworking.exe
+F:\dev\NETworking\NETworking\NETworking\bin\Debug\net48\NETworking.pdb
+F:\dev\NETworking\NETworking\NETworking\obj\Debug\net48\NETworking.exe
+F:\dev\NETworking\NETworking\NETworking\obj\Debug\net48\NETworking.pdb
